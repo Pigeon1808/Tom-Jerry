@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-a_1---panorama",
-      "name": "a_1 - Panorama",
+      "id": "0-",
+      "name": "Вход",
       "levels": [
         {
           "tileSize": 256,
@@ -33,20 +33,20 @@ var APP_DATA = {
           "yaw": 0.6029509421360881,
           "pitch": 0.1442744640612723,
           "rotation": 0,
-          "target": "1-a_1---panorama-copy"
+          "target": "1--"
         },
         {
           "yaw": -0.49943265119146574,
           "pitch": 0.07464577606976164,
           "rotation": 0,
-          "target": "2-a_1---panorama-copy-copy"
+          "target": "2--"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "1-a_1---panorama-copy",
-      "name": "a_1 - Panorama (copy)",
+      "id": "1--",
+      "name": "Узел учёта",
       "levels": [
         {
           "tileSize": 256,
@@ -77,26 +77,26 @@ var APP_DATA = {
           "yaw": -0.4793863962192155,
           "pitch": 0.1666990083108466,
           "rotation": 0,
-          "target": "0-a_1---panorama"
+          "target": "0-"
         },
         {
           "yaw": 0.61800068387425,
           "pitch": 0.11656447393180969,
           "rotation": 0,
-          "target": "2-a_1---panorama-copy-copy"
+          "target": "2--"
         },
         {
           "yaw": 1.9801493056840878,
           "pitch": 0.20456267175163134,
           "rotation": 0,
-          "target": "3-a_1---panorama-copy-copy-copy"
+          "target": "3--"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "2-a_1---panorama-copy-copy",
-      "name": "a_1 - Panorama (copy) (copy)",
+      "id": "2--",
+      "name": "Переходной канал",
       "levels": [
         {
           "tileSize": 256,
@@ -127,26 +127,26 @@ var APP_DATA = {
           "yaw": -0.0428349652508313,
           "pitch": 0.10237141864654298,
           "rotation": 0,
-          "target": "1-a_1---panorama-copy"
+          "target": "1--"
         },
         {
           "yaw": -0.9874175709902175,
           "pitch": 0.20997600791668525,
           "rotation": 0,
-          "target": "3-a_1---panorama-copy-copy-copy"
+          "target": "3--"
         },
         {
           "yaw": 0.9919993963652747,
           "pitch": 0.15955878180409222,
           "rotation": 0,
-          "target": "0-a_1---panorama"
+          "target": "0-"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "3-a_1---panorama-copy-copy-copy",
-      "name": "a_1 - Panorama (copy) (copy) (copy)",
+      "id": "3--",
+      "name": "Узел ввода",
       "levels": [
         {
           "tileSize": 256,
@@ -177,13 +177,13 @@ var APP_DATA = {
           "yaw": 0.24113083800878599,
           "pitch": 0.14944918903443138,
           "rotation": 0,
-          "target": "2-a_1---panorama-copy-copy"
+          "target": "2--"
         },
         {
           "yaw": -1.081933494646135,
           "pitch": -0.0003711796411245416,
           "rotation": 0,
-          "target": "1-a_1---panorama-copy"
+          "target": "1--"
         }
       ],
       "infoHotspots": []
